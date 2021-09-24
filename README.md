@@ -46,7 +46,7 @@ Please refer to this demo gif:
 ![Usage](./assets/E-commerceDemo.gif)
 
 For a better look at proper routes and what to expect when playing with the database, refer to this link below:
-https://drive.google.com/file/d/1mxWf7SgebCH76u64nzagF-JuwKRfhRbJ/view
+https://drive.google.com/file/d/1mxWf7SgebCH76u64nzagF-JuwKRfhRbJ/view?usp=sharing
 
 ## License
 
